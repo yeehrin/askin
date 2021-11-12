@@ -48,13 +48,13 @@ $(function () {
 
 function SliderBox2__init() {
     $('.slider-area-4 .slick').slick({
-        arrows:true,
+        // arrows:true,
         slidesToShow: 5,
         slidesToScroll: 1,
         autoplay: true,
         autoplaySpeed: 800,
-        prevArrow: ".slider-box-2 .arrow .btn-arrow-left",
-        nextArrow: ".slider-box-2 .arrow .btn-arrow-right"
+        // prevArrow: ".slider-box-2 .arrow .btn-arrow-left",
+        // nextArrow: ".slider-box-2 .arrow .btn-arrow-right"
     });
     /*
   autoplay: true,
